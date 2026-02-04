@@ -93,26 +93,6 @@ A simple web interface is included where users can:
 
 ---
 
-## 📁 Repository Structure
-├── data/
-│ ├── mutual_fund_data.csv
-│ ├── mutual_fund_nav_history.parquet
-│
-├── notebooks/
-│ ├── recommendation_mutualfunds.ipynb
-│
-├── research_paper/
-│ ├── Enhancing_Investment_Decisions_A_Machine_Learning_Approach_to_Recommending_Stocks_and_Mutual_Funds.pdf
-│
-├── app/
-│ ├── app.py
-│ ├── templates/
-│ ├── static/
-│
-├── README.md
-
----
-
 ## 📊 Evaluation Strategy
 Since explicit user feedback data was not available, the system was evaluated using:
 - Manual sanity checks
