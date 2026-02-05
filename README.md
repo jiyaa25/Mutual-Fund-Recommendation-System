@@ -71,16 +71,7 @@ The implementation focuses on the **similarity-based components** of the paper f
 
 ---
 
-## 🌐 Web Interface
-A simple web interface is included where users can:
-1. Select a mutual fund
-2. Click **Recommend**
-3. View the **top 5 similar mutual funds**
-
-🔗 **Web Application Link**:  
-👉 *(Add your deployed website link here)*
-
----
+ 
 
 ## 🛠 Tech Stack
 - Python  
@@ -88,9 +79,7 @@ A simple web interface is included where users can:
 - Scikit-learn  
 - Cosine Similarity  
 - Jupyter Notebook  
-- Flask / Streamlit *(depending on implementation)*  
-- HTML, CSS, JavaScript  
-
+ 
 ---
 
 ## 📊 Evaluation Strategy
